@@ -1,0 +1,14 @@
+{
+    "title":"orYouCouldEat",
+    "description":"This template can be used to create a basic KinomaJS application .",
+    "id":"oryoucouldeat.project.kinoma.marvell.com",
+    "tags":[
+        "emptySample"
+    ],
+    "Create":{
+        "main":"main"
+    },
+    "Element":{
+        "main":"main"
+    }
+}
